@@ -1,9 +1,5 @@
 # .NET - Inventory Management Web Application
 ![Application Screenshot](./new-folder/Screenshot_1.png) 
-![Application Screenshot](./new-folder/Screenshot_2.png)
-![Application Screenshot](./new-folder/Screenshot_3.png)
-
-
 Software system that stores asset details and location information for an organization. 
 
 ## Overview
@@ -26,4 +22,10 @@ This is a .NET C# web application designed for inventory management. The applica
 - **SQL Server**: Database management system for storing and retrieving data.
 - **HTML, CSS, JavaScript**: Frontend technologies for creating an interactive and responsive user interface.
 - **Bootstrap**: Frontend framework for designing a clean and consistent user interface.
+
+# More Screen Web Grabs (Example: Create new inventory)
+![Application Screenshot](./new-folder/Screenshot_2.png)
+
+![Application Screenshot](./new-folder/Screenshot_3.png)
+
 
