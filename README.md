@@ -1,5 +1,7 @@
 # .NET - Inventory Management Web Application
 ![Application Screenshot](./new-folder/Screenshot_1.png)
+![Application Screenshot](./new-folder/Screenshot_2.png)
+
 
 Software system that stores asset details and location information for an organization. 
 
