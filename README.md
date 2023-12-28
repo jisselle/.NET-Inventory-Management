@@ -1,5 +1,6 @@
 # .NET - Inventory Management Web Application
-![Application Screenshot](./new-folder/Screenshot_1.png) ![Application Screenshot](./new-folder/Screenshot_2.png)
+![Application Screenshot](./new-folder/Screenshot_1.png) 
+![Application Screenshot](./new-folder/Screenshot_2.png)
 ![Application Screenshot](./new-folder/Screenshot_3.png)
 
 
