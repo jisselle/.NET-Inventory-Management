@@ -17,7 +17,7 @@ This is a .NET C# web application designed for inventory management. The applica
 ## Technologies Used
 
 - **C#**: The primary programming language for the backend.
-- **ASP.NET Core**: Framework for building modern, cloud-based, and internet-connected applications.
+- **.NET 6**: Framework for building modern, cloud-based, and internet-connected applications.
 - **Entity Framework Core**: Object-relational mapper for interacting with the SQL database.
 - **SQL Server**: Database management system for storing and retrieving data.
 - **HTML, CSS, JavaScript**: Frontend technologies for creating an interactive and responsive user interface.
