@@ -24,8 +24,8 @@ This is a .NET C# web application designed for inventory management. The applica
 - **Bootstrap**: Frontend framework for designing a clean and consistent user interface.
 
 # More Screen Web Grabs (Example: Create new inventory)
-![Application Screenshot](./new-folder/Screenshot_Create.png)
+![Application Screenshot](./new-folder/Create_1.png)
 
-![Application Screenshot](./new-folder/Screenshot_3.png)
+![Application Screenshot](./new-folder/Create_2.png)
 
 
