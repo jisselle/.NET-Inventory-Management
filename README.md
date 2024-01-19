@@ -23,9 +23,19 @@ This is a .NET C# web application designed for inventory management. The applica
 - **HTML5, CSS, JavaScript**: Frontend technologies for creating an interactive and responsive user interface.
 - **Bootstrap**: Frontend framework for designing a clean and consistent user interface.
 
-# More Screen Web Grabs (Example: Create new inventory)
+# More Screen Web Grabs (Example: Create new inventory, datables, dashboards)
 ![Application Screenshot](./new-folder/create_1.png)
 
 ![Application Screenshot](./new-folder/create_2.png)
+![Application Screenshot](./new-folder/AM_Tag.png)
+
+![Application Screenshot](./new-folder/AM_AssignedPeripherals_Index.png)
+![Application Screenshot](./new-folder/I_Index.png)
+![Application Screenshot](./new-folder/M_Index.png)
+![Application Screenshot](./new-folder/P_Index.png)
+![Application Screenshot](./new-folder/Inventory_Index.png)
+![Application Screenshot](./new-folder/AM_Delete.png)
+![Application Screenshot](./new-folder/AM_Details.png)
+![Application Screenshot](./new-folder/Edit.png)
 
 
