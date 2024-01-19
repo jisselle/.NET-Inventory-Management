@@ -14,7 +14,7 @@ This is a .NET C# web application designed for inventory management. The applica
 - **Reporting**: Generate reports on inventory levels, location counts, and other relevant data.
 - **Search and Filters**: Efficiently search and filter products and orders through tag or product serial number.
 
-- ## Technical Features
+## Technical Features
 - **Dynamic View Components**: Rendering view components in dynamically 
 - **Input validation**: Using regex and built in model .NET validation as well
 - **View Data Tags**
