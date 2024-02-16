@@ -43,7 +43,7 @@ This is a .NET C# web application designed for inventory management. The applica
 
 ![Application Screenshot](./new-folder/L_Index.png)
 ![Application Screenshot](./new-folder/M_Index.png)
-![Application Screenshot](./new-folder/P_Index.png)
+![Application Screenshot](./new-folder/P_Index2.png)
 
 ![Application Screenshot](./new-folder/AM_AssignedPeripherals_Index.png)
 
