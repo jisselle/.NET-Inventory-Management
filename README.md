@@ -31,7 +31,7 @@ This is a .NET C# web application designed for inventory management. The applica
 - **HTML5, CSS, JavaScript**: Frontend technologies for creating an interactive and responsive user interface.
 - **Bootstrap**: Frontend framework for designing a clean and consistent user interface.
 
-# More Screen Web Grabs (Example: CRUD, datables, dashboards)
+# More Screen Web Grabs (Example: CRUD, data tables, dashboards)
 ![Application Screenshot](./new-folder/create_1.png)
 
 ![Application Screenshot](./new-folder/create_2.png)
