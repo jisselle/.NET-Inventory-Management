@@ -1,5 +1,5 @@
 # .NET - Inventory Management Web Application
-![Application Screenshot](./new-folder/Home_Page.png) 
+![Application Screenshot](./new-folder/ScanInventory.png) 
 Web application software that stores asset details and location information for an organization. 
 
 ## Overview
@@ -32,8 +32,8 @@ This is a .NET C# web application designed for inventory management. The applica
 - **Bootstrap**: Frontend framework for designing a clean and consistent user interface.
 
 # More Screen Web Grabs (Example: CRUD, data tables, dashboards)
+![Application Screenshot](./new-folder/Home.png)
 ![Application Screenshot](./new-folder/Create.png)
-![Application Screenshot](./new-folder/EnterBooth.png)
 ![Application Screenshot](./new-folder/ScanInventory.png)
 ![Application Screenshot](./new-folder/AM_Tag.png)
 ![Application Screenshot](./new-folder/Inventory_Index.png)
